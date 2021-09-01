@@ -1,1 +1,1 @@
-# study-node
+# study-nodejs
